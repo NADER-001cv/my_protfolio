@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my_protfolio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/my_protfolio/static/js/main.292c419f.chunk.js",
+    "main.js.map": "/my_protfolio/static/js/main.292c419f.chunk.js.map",
+    "runtime-main.js": "/my_protfolio/static/js/runtime-main.74152c4d.js",
+    "runtime-main.js.map": "/my_protfolio/static/js/runtime-main.74152c4d.js.map",
+    "static/js/2.bf8c8002.chunk.js": "/my_protfolio/static/js/2.bf8c8002.chunk.js",
+    "static/js/2.bf8c8002.chunk.js.map": "/my_protfolio/static/js/2.bf8c8002.chunk.js.map",
+    "static/js/3.f8fa5f77.chunk.js": "/my_protfolio/static/js/3.f8fa5f77.chunk.js",
+    "static/js/3.f8fa5f77.chunk.js.map": "/my_protfolio/static/js/3.f8fa5f77.chunk.js.map",
+    "index.html": "/my_protfolio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/my_protfolio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.bf8c8002.chunk.js.LICENSE.txt": "/my_protfolio/static/js/2.bf8c8002.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my_protfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74152c4d.js",
+    "static/js/2.bf8c8002.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.292c419f.chunk.js"
+  ]
+}

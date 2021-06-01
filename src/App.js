@@ -3,7 +3,7 @@ import Wave from 'react-wavify';
 import Typewriter from 'react-simple-typewriter'
 import 'react-simple-typewriter/dist/index.css'
 import Nav from './layout/headernav/Nav';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 // hello
 function App() {
   return (

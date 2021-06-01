@@ -2,11 +2,15 @@ import React from 'react';
 import Wave from 'react-wavify';
 import Typewriter from 'react-simple-typewriter'
 import 'react-simple-typewriter/dist/index.css'
-
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import Nav from './layout/headernav/Nav';
+// hello
 function App() {
   return (
     <div> 
+    
     <div className='App'>
+    <Nav/>
     <h1
     style={{ paddingTop: '5rem', margin: 'auto 0', fontWeight: 'normal' }}
     >

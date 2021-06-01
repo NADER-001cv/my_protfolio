@@ -5,16 +5,18 @@ function Nav() {
         <div>
         <ul className="nav justify-content-end">
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Active</a>
+        
+          <Nav.Link  className="nav-link active" aria-current="page"   href="#home">Home</Nav.Link>
+
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Link</a>
+          <Nav.Link  className="nav-link" href="#">Link</Nav.Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Link</a>
+          <Nav.Link  className="nav-link" href="#">Link</Nav.Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          <Nav.Link  className="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</Nav.Link>
         </li>
       </ul>
         </div>
